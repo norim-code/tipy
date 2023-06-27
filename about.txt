@@ -1,0 +1,5 @@
+typy is a to-do app on c++
+start development: 27.06.2023 23:53
+expected finish time: 28.06.2023 02:00
+end development: 28.06.2023 01:52
+tips for the next projects: icons, storage 
